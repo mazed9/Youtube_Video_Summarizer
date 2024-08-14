@@ -3,9 +3,9 @@
 
 YouTube Video Summarizer is a web application built with Streamlit that allows users to extract and summarize transcripts of YouTube videos. The app leverages Google's Gemini Pro model to generate concise summaries based on the video's transcript.
 
-![Home](home.png)
-![Home](ytsumm-2.png)
-![Home](ytsumm-3.png)
+![Home](one.png)
+![Home](two.png)
+![Home](three.png)
 
 
 ## Features
